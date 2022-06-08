@@ -2,7 +2,32 @@
     box-sizing: border-box;
 }
 body{
-    background: yellow;
+    background: white;
     margin: 0%;
     padding: 0%;
+}
+.logo{
+    height: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.caja1{
+    background-color: purple;
+    height: 65vh;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+.caja{
+    background-color: tomato;
+    height: 65vh;
+}
+.caja2{
+    background-color: grey;
+    height: 65vh;
+}
+.gato{
+    height: 65vh;
+    width: 70vh;
 }
